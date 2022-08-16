@@ -9,7 +9,5 @@ In this section, we use random forest classifier to identify the cell type that 
 
 
 ### DE heatmaps:
-Download the datasets for different setups from [here](https://drive.switch.ch/index.php/s/ov6OiLyc3V2xEo2). Put the .npz files in folder datasets/scattering/.
-
 
 ### violin plots:
