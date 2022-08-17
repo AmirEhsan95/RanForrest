@@ -12,4 +12,6 @@ In this section, we use random forest classifier to identify the cell type that 
 In this section, we performed differential expression (DE) analysis using two different statitical methods (t-test and wilcoxon) on the genes of cell types we idenfied with RanForrest classifier and visuzalied DE of top 5 marker genes with heatmaps. Further information and details are explained in DE_Analysis.ipynb.
 
 
-### violin plots:
+### violin plots: 
+In this section, we build a new function to visualize stacked violin plots among diffent subgroups of the chosen dataset. This function can be seen as an extension of besca's split violin plots. Further information and details are explained in Stacked Violin Plot.ipynb.
+
